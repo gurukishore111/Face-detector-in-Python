@@ -2,8 +2,8 @@
 Opencv
 
 
-Face-detector-i -Image
+Face-Detector-i -Image
 
-Face-detector-v -video
+Face-Detector-v -video
 
-Face-detector-w -webcam
+Face-Detector-w -webcam
